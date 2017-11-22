@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: linear-gradient(
+    rgba(23,23,18,0.45),
+    rgba(23,23,18,0.45)
+    ), url("https://media.npr.org/assets/img/2013/10/03/quentin_matsys_-_a_grotesque_old_woman_sq-03cd35274841241d3b998898b1d1d27fb3bca299-s900-c85.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+* {
+  box-sizing: border-box;
+}
